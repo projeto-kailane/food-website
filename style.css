@@ -1,0 +1,8 @@
+#logo{
+    padding: 70px 0 0 0;
+    overflow: hidden;
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    height: 1px!important;
+    display: flex;
+}
