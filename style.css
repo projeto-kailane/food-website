@@ -3,6 +3,6 @@
     overflow: hidden;
     background-image: url(logo.png);
     background-repeat: no-repeat;
-    height: 1px!important;
+    height: 1px !important;
     display: flex;
 }
