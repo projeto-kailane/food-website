@@ -1,16 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
 
-body{
+#container{
     font-family: Oswald;
     color: #333333;
     
 }
-a{
+header a{
     color: #333333;
     text-decoration: none;
+    font-size: 18px;
+
 }
 
-a:hover{
+header a:hover{
+    font-size: 18px;
     color:#ffc139;
 }
 #logo{
